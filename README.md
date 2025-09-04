@@ -29,7 +29,7 @@ MERN + SQL stack.
 
 🛠️ Setup Instructions
 1. Clone the repository
-git clone https://github.com/your-username/screen-recorder-app.git
+git clone [https://github.com/your-username/screen-recorder-app.git](https://github.com/bharath-3107/Screen-recorder-Amberflux-)
 cd screen-recorder-app
 
 2. Setup Backend
