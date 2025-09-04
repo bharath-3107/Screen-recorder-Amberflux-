@@ -74,9 +74,9 @@ createdAt → Upload timestamp
 
 🌐 Deployment
 
-Frontend → Netlify / Vercel
+Frontend → Vercel
 
-Backend → Render / Railway
+Backend → Render
 
 Database → SQLite (local file) or Postgres (for production)
 
